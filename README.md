@@ -15,10 +15,10 @@ https://emparrish417.github.io/
 
 1) ABOUT ME:  About section with contact information.
 
-2) Skill: List of technical and analytic skills + level of expertise.
+2) SKILL: List of technical and analytic skills + level of expertise.
 
-3) Education + Experience: CV description of eduacational background and work/research experience.
+3) EDUCATION + EXPERIENCE: CV description of eduacational background and work/research experience.
 
-4) Toolkit: Links and descriptions to useful analytics tools, libraries, and software for specific applications
+4) TOOLKIT: Links and descriptions to useful analytics tools, libraries, and software for specific applications
 
-5) Portfolio: Portfolio of work done with a description of the project categorized into programming, analytics, and visualizations.  Links to git repo and documentation for the project.
+5) PORTFOLIO: Portfolio of work done with a description of the project categorized into programming, analytics, and visualizations.  Links to git repo and documentation for the project.
